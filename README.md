@@ -1,4 +1,4 @@
-### Hello! I'm Anthony, a 1st-year Data Science Student at UC Irvine. :bar_chart:
+### Hello, I'm Anthony, a 1st-year Data Science Student at UC Irvine! :bar_chart:
 
 Although I have no personal programs yet, I am fascinated by the power of **data-driven projects** and have plans to create my own as I continually gain new
 skills in the field. I am excited to apply my skills in projects that will make data visualization easier for others. 
